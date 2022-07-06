@@ -1,4 +1,4 @@
-# `Hello World! I'm Krina Vaghela`
+# `Hi! I'm Krina Vaghela`
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&color=%23339AF7&size=30&height=60&lines=Tech+Enthusiast;Web+Developer)](https://git.io/typing-svg)
 <br/>
 <a href="https://www.linkedin.com/in/krina-vaghela/">
