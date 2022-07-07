@@ -12,8 +12,6 @@
 <br/>
 Stacks I am working with : MERN , React+Firebase.
 <br/>  
-Things I am currently experimenting with : Machine Learning
-<br/>
   
 ### ✨ Quick Facts
 
