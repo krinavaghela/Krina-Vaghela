@@ -8,7 +8,7 @@
 <br/>
 
 <p>
-🚀 A Skilled Developer . Always working on some project or learning something new!
+🚀 A Skilled Designer and Developer  . Always working on some project or learning something new!
 <br/>
   
 ### 🏆 Certificates 
