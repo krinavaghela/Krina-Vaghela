@@ -8,15 +8,6 @@
 <br/>
 
 <p>
-🚀 A Skilled Designer and Developer  . Always working on some project or learning something new!
-<br/>
-  
-### 🏆 Certificates 
-[Google IT Support Professional Certificate](https://coursera.org/share/533e790fe5d756eafd768e37c262b0ca)
-     
-### 🎖Badge
-  <img align="top left" alt="https://www.credly.com/users/krina-vaghela/badges" height="150" style="border-radius:50px;" src="https://images.credly.com/size/680x680/images/98991f46-4c06-4f8b-a3ff-02a7e8768bb2/Google_Certs_IT.png">
-
-
+🚀 A Skilled Designer and Developer.
 
 ![Profile view](https://gpvc.arturio.dev/krinavaghela)
