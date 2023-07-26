@@ -9,5 +9,3 @@
 
 <p>
 🚀 A Skilled Designer and Developer.
-
-![Profile view](https://gpvc.arturio.dev/krinavaghela)
